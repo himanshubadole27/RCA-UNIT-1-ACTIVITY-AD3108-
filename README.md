@@ -48,13 +48,12 @@ This project implements Multiple Linear Regression to predict a continuous targe
 3. Review the generated graphs, tables and evaluation results.
 
 ## Results
-*Update this section after running the notebook.*
 
-- Single-feature model R²: ______
-- Multiple-feature model R²: ______
-- MAE: ______
-- RMSE: ______
-- Did multiple features improve performance? ______
+- Single-feature model R²: ~0.233
+- Multiple-feature model R²: ~0.454
+- MAE: Single-feature ~52.26 and Multiple-feature ~44.30
+- RMSE: Single-feature ~63.73 and Multiple-feature ~53.78
+- Did multiple features improve performance? - Yes, adding multiple features significantly improved performance
 
 ## Conclusion
 This activity demonstrates the implementation of Multiple Linear Regression using manual calculations and Python libraries. The performance of a single-feature model is compared with a multiple-feature model. Regression coefficients, residuals, multicollinearity and evaluation metrics are analyzed to understand model performance and limitations.
